@@ -1,3 +1,7 @@
-## Aufgabe 2 
+## Aufgabe 2 (20-25 Minuten)
 
-verfügbar ab Tag des Workshops
+
+
+
+
+![Getting Started](./pic2.PNG)
