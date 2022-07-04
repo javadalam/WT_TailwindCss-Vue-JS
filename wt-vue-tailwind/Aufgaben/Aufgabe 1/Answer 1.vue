@@ -1,3 +1,6 @@
+
+<!-- Aufgabe 1 -->
+
 <script setup>
 
 </script>
@@ -6,8 +9,6 @@
   
    <div class="relative flex min-h-screen">
 
-    <!-- Aufgabe 1 -->
-    
       <div class="bg-cyan-400 w-64 space-y-6">
           <a href="" class=""> <span > Home </span> </a>
          

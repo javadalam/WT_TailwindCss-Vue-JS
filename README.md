@@ -23,10 +23,11 @@ Vorkenntnisse in HTML, (S)CSS und JS sind für die Teilnahmen von Vorteil.
      npm install
      npm run dev
      ```
-     
+
+- Nun sollte der Server erreichbar sein unter `http://localhost:3000/`   
 
 - [Vue](https://vuejs.org/guide/quick-start.html#with-build-tools) installieren (node oder yarn)
-- [TailwindCSS](https://tailwindcss.com/docs/guides/vite)installieren
+- [TailwindCSS](https://tailwindcss.com/docs/guides/vite)   installieren
 
 ## Material
 
