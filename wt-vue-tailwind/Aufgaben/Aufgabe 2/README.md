@@ -1,9 +1,29 @@
-## Aufgabe 2 (20-25 Minuten)
+## Aufgabe 2 (20 Minuten)
 
-Die Navigationsleiste mit den Tailwind-CSS-Klassen erweitern.
+Die Navigationsleiste mit den TailwindCSS Klassen erweitern.
 
 
-Sie haben 2 Möglichkeiten für die Icons, entweder mit [Heroicons](https://heroicons.com/) , die ich vorher vorbereitet habe, im Icon-Ordner als SVG-Datei, oder Sie können mit dem [Bootstrap-Icon](https://icons.getbootstrap.com/) arbeiten und dort nach anderen Icons suchen und diese verwenden.
+Für die Entwicklung der Navigationsleiste benötigen Sie die Icons, die ich vorher im Icon-Ordner als SVG-Datei vorbereitet habe.
+
+Sie können den folgenden Code als Beispiel schauen , um zu verstehen, wie man Icons in der Komponente verwendet.
+
+```sh
+<script>
+import IconHome from "./icons/IconHome.vue"
+export default {
+    components:{
+        IconHome,
+     }
+};
+</script>
+```
+
+```sh
+<a href="/" class="group ">
+    <IconTeam />
+        <span class="">Team</span>
+</a>
+```
 
 
 

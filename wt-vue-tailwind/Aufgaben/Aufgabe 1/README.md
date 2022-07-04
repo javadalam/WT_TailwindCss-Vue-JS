@@ -2,6 +2,10 @@
 
 ## Setup neue Component
 
-Entwickeln Sie eine Komponente mit dem Namen `Sidebar.vue`, die Komponente muss aus 3 Teilen bestehen, einem Header, einer Sidebar, einem Content.Erstellen Sie dann eine Navigationsliste im Bereich der Sidebar wie im Beispiel.
+Entwickeln Sie 2 Komponenten mit den Namen `Sidebar.vue` und `Login.vue`. Die `Sidebar.vue` muss als die Hauptkomponente betrachtet werden.
 
-![Getting Started](./pic1.PNG)
+in `Sidebar.vue` eine Navigationsliste wie im Beispiel erstellen
+
+![Getting Started](./pic24.PNG)
+
+Erstellen sie in der `Anmelden.vue` einen Contentbereich, der in Aufgabe 3 weiter entwickelt werden muss.
