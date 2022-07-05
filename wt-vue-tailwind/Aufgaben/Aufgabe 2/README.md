@@ -19,10 +19,12 @@ export default {
 ```
 
 ```sh
+<template>
 <a href="/" class="group ">
     <IconTeam />
         <span class="">Team</span>
 </a>
+<template />
 ```
 
 
